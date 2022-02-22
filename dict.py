@@ -2,6 +2,7 @@ mydict={
     "pankha": "fan",
     "dabba": "box",
     "vastu": "item",
+    "aayena": "mirror",
 }
 print("options are" , mydict.keys())
 a=input("enter the hindi word\n ")
